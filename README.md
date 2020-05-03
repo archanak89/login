@@ -6,7 +6,10 @@ login repository
 <head>
     <meta charset="utf-8" />
     <title></title>
-    <link rel="stylesheet" type="text/css" href="C:\Users\basta\source\repos\StyleSheet.css">
+    <link rel="stylesheet" type="text/css" href="C:\Users\basta\source\repos\nodelogin.js\nodelogin.js\StyleSheet.css">
+
+    <link rel="stylesheet" type="text/css" href="C:\Users\basta\source\repos\nodelogin.js\nodelogin.js\StyleSheet.css">
+
     </head>
 <body>
     <form action=" " method="get" align="center">
@@ -40,9 +43,10 @@ login repository
                 <br />
             <br />
 
+            <div class="btn">  <input type="submit" value="Submit" class="botn"  formaction="C:\Users\basta\source\repos\nodelogin.js\nodelogin.js\page2.html"/> </div>
 
+            <div class="btn">  <input type="submit" value="Submit" class="botn"  formaction="C:\Users\basta\source\repos\nodelogin.js\nodelogin.js\page2.html"/> </div>
 
-            <div class="btn">  <input type="submit" value="Submit" class="botn"  formaction="C:\Users\basta\source\repos\page2.html"/> </div>
         </div>
 
     </form>
